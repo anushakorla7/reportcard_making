@@ -1,1 +1,4 @@
 # reportcard_making
+
+This system has been developed to eliminate the repetitive tasks which is to be performed manually thus saving time and investment. This new system will store all the student records along with their marks and report card details, by which teachers and admin will able to retrieve these records whenever they required.It will enable teachers to get information on various sections such as list of failures students, list of toppers students, students list who have failed in particular subject etc using the predefined rules set by the institutions. Apart from these searching and sorting mechanism has been used to make these tasks faster. It will enable teachers to make report card, by entering subject marks, viewing report card of all or particular student, easy navigation system from moving one module to next module while using this system.
+
